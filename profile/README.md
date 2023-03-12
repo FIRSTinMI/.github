@@ -1,3 +1,3 @@
 This organization is for projects under FIRST in Michigan.
 
-The Github organization is maintained by @evanlihou.
+The Github organization is maintained by [@evanlihou](https://github.com/evanlihou).
